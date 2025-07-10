@@ -1,0 +1,14 @@
+{
+  "wellbeing": {
+    "url": "https://www.nottingham.ac.uk/studentservices/wellbeing/student-wellbeing.aspx",
+    "content": "Student Wellbeing"
+  },
+  "extenuating_circumstances": {
+    "url": "https://www.nottingham.ac.uk/studentservices/servicedetails/extenuating-circumstances/extenuating-circumstances.aspx",
+    "content": "Extenuating Circumstances"
+  },
+  "support_plans": {
+    "url": "https://www.nottingham.ac.uk/studentservices/servicedetails/disability-support-services/disability-support-services.aspx",
+    "content": "Disability support services"
+  }
+}
